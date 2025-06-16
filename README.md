@@ -38,3 +38,7 @@ No signups. No tracking. Just simple utility splitting.
 - 🔐 Privacy-first: No data stored or tracked
 
 
+to Run :
+ # Start the development server
+>> npm run dev
+
